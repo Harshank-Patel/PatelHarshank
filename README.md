@@ -1,3 +1,4 @@
+- 🙂 This is my public github account
 - 👋 Hi, I’m @PatelHarshank
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning React.js
